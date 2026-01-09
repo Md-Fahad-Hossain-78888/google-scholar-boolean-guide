@@ -1,1 +1,16 @@
-# google-scholar-boolean-guide
+# Google Scholar Boolean Operators Guide
+
+A concise and practical guide to Boolean operators and advanced search techniques in Google Scholar.
+
+## What this includes
+- AND, OR, NOT operators
+- Phrase search and parentheses
+- Author, title 
+- File type, site
+
+## Who this is for
+- Students
+- Early-career researchers
+
+📄 Download the PDF:
+- Google_Scholar_Boolean_Operators_Guide.pdf
