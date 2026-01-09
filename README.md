@@ -13,4 +13,4 @@ A concise and practical guide to Boolean operators and advanced search technique
 - Early-career researchers
 
 📄 Download the PDF:
-- Boolean Operators in Google Scholar.pdf
+- Using Boolean Operators in Google Scholar.pdf
